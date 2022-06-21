@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873494069021",
+    "project_id": "fir-rn-3d72b",
+    "storage_bucket": "fir-rn-3d72b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873494069021:android:28cc6c12d6d7d4c3ee6bf4",
+        "android_client_info": {
+          "package_name": "com.chatapprn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873494069021-3jl7s1d2k6k45taq37s87lt0u8gp1fo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC53slCp1L_Xy-OV2zn_SgbNgQYHZ1L8ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873494069021-3jl7s1d2k6k45taq37s87lt0u8gp1fo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
